@@ -8,6 +8,17 @@ Download here: http://dev.mysql.com/downloads/mysql/
 
 Guide here: https://docs.google.com/a/ire.org/document/d/1w2k5MLjD23FNqBgKaCTLEqZbjb8HZuDVff71RKIKTF0/edit
 
+##GUIs for MySQL
+###SQLYog (PC only)
+
+Download 'SQLYog Community Edition' here: http://code.google.com/p/sqlyog/downloads/list
+
+###SequelPro (Mac only)
+
+Download here: http://www.sequelpro.com/download
+
+###Navicat Lite (free)
+
 ##PostgreSQL -- another free, open source database manager.
 Windows download: http://www.postgresql.org/download/windows/
 
@@ -24,11 +35,10 @@ Download here: http://csvkit.readthedocs.org/en/latest/
 ## Google Refine -- a web-based tool for cleaning data.
 Download here: http://code.google.com/p/google-refine/downloads/list?can=1
 
-## Python -- an general-purpose programming language.
-*Recommended version: 2.7.6
-Download here: http://www.python.org/download/
+## Python -- an general-purpose, object-oriented programming language.
+*Recommended version: 2.7.6*
 
-## Ruby -- 
+Download here: http://www.python.org/download/
 
 
 
