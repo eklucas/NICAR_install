@@ -1,5 +1,6 @@
 NICAR_install
 =============
+The Sunday morning install party at #NICAR14 in Baltimore.
 
 #*Links and tips for installing tools.*
 
@@ -32,13 +33,17 @@ Download here: http://tabula.nerdpower.org/
 
 Download here: http://csvkit.readthedocs.org/en/latest/
 
-## Google Refine -- a web-based tool for cleaning data.
-Download here: http://code.google.com/p/google-refine/downloads/list?can=1
+## Open Refine -- an amazing web-based tool for cleaning data.
+Download here: http://openrefine.org/
+After you have it installed, get up to speed with [this tutorial](http://www.tommeagher.com/blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes.html) from Tom Meagher.
 
 ## Python -- an general-purpose, object-oriented programming language.
 *Recommended version: 2.7.6*
 
 Download here: http://www.python.org/download/
 
+If you're a Windows 8.1 user, try Anthony DeBarros's [tutorial on installing Python.](http://www.anthonydebarros.com/2014/02/16/setting-up-python-in-windows-8-1/)
+
+Once you have Python installed, you can play with his class on ["Getting Started with Python"](http://www.anthonydebarros.com/2014/03/01/nicar-14-python-get-started/) or dive into the [PyCAR class](https://github.com/tommeagher/pycar14).
 
 
