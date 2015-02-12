@@ -44,4 +44,17 @@ If you're a Windows 8.1 user, try Anthony DeBarros's [tutorial on installing Pyt
 
 Once you have Python installed, you can play with his class on ["Getting Started with Python"](http://www.anthonydebarros.com/2014/03/01/nicar-14-python-get-started/) or dive into the [PyCAR class](https://github.com/tommeagher/pycar14).
 
+###NPR Visuals Team's guide to setting up your Mac
+Specific to Mac + Python development, the folks on the NPR Visuals team have set up a [nice guide to some basics](http://blog.apps.npr.org/2013/06/06/how-to-setup-a-developers-environment.html).
 
+Includes:
+* OS X Command Line Tools
+* Homebrew
+* pip
+* virtualenv
+* Node
+* NumPy
+* postgres
+* postGIS
+
+Also with tips on setting up your Bash profile, terminal and text editing apps.
