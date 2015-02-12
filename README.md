@@ -10,7 +10,7 @@ Guide here: https://docs.google.com/a/ire.org/document/d/1w2k5MLjD23FNqBgKaCTLEq
 
 ###SQLYog (PC only) -- a GUI for MySQL
 
-Download 'SQLYog Community Edition' here: http://code.google.com/p/sqlyog/downloads/list
+Download 'SQLYog Community Edition' here: https://code.google.com/p/sqlyog/wiki/Downloads
 
 ###SequelPro (Mac only) -- a GUI for MySQL
 
