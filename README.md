@@ -1,4 +1,5 @@
 Links and tips for installing tools that you discovered at NICAR.
+http://github.com/eklucas/nicar_install
 =============
 For the Sunday morning install party at ~~NICAR14 in Baltimore~~ NICAR15 in Atlanta
 
