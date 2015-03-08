@@ -25,7 +25,7 @@ Windows download: http://www.postgresql.org/download/windows/
 OSX download: http://www.postgresql.org/download/macosx/
 
 ###Tabula -- liberate data tables trapped in PDF files.
-Download here: http://tabula.nerdpower.org/
+Download here: http://tabula.technology/
 
 ###CSVkit -- a suite of utilities for converting to and working with CSV.
 *Requires use of the command line*
